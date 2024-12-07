@@ -1,2 +1,3 @@
 # DevOps
-CI/CD plus Release orchestration
+CI/CD plus Kubernetics
+
